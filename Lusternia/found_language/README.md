@@ -1,0 +1,1 @@
+These poems use the "found language" format - they only use text from a particular source. In the case of these poems, each line is the title of a book published in-character by another player of Lusternia.
