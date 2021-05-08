@@ -1,0 +1,10 @@
+Originally uploaded 2021-05-07
+
+Fitness Function
+----------------
+The wall stands still to strike so hard
+I stand still, but hit it anyway.
+On an autowalk to an escalator, sure as the great glass elevator, I hit the ceiling.
+
+But when I run I'm standing still, a treadmill promising health and fitness but giving only exhaustion and a cold sweat.
+My fitness function always returns 0.
