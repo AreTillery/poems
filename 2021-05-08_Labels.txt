@@ -1,0 +1,10 @@
+Originally uploaded 2021-05-08
+Accompanying upload notes: Sorry if you aren't a programmer I guess.
+
+
+Labels
+------
+I like to think labels and what we call them aren't important, but I think about things differently if I
+goto fail;
+It feels a bit better to think that instead I can
+goto cleanup;
