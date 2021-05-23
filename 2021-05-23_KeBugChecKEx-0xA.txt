@@ -1,0 +1,8 @@
+Originally uploaded 2021-05-23
+
+KeBugCheckEx 0xA
+-----
+The best moment in your life is a DBA's worst
+when you format an input that's particularly cursed.
+when you manage, through a single query in SQL
+to get the PC to say IRQL_NOT_LESS_OR_EQUAL
